@@ -1,0 +1,50 @@
+.container{
+    background-color: white;
+    padding: 30px;
+    margin: 0 auto;
+    
+    width: 600px;
+    border-radius: 20px;
+}
+input{
+    padding: 10px 220px 10px 220px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 3px;
+}
+select{
+    padding: 10px 265px 10px 265px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 3px;   
+}
+option{
+    padding: 10px 250px 10px 250px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 3px;    
+}
+form{
+    font-weight: bold;
+}
+.SubmitBu{
+    padding: 10px 250px 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 8px;
+    background-color: rgb(5, 170, 5);
+    color: white;
+    border-style: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+h2{
+    text-align: center;
+}
+body{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.SubmitBu:hover{
+    background-color: rgb(7, 129, 0);
+}
